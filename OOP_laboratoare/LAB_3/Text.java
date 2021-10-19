@@ -1,4 +1,4 @@
-package lab3.task1;
+package com.company;
 import java.util.*;
 import java.util.stream.Collectors;
 
